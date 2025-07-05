@@ -1,4 +1,4 @@
-## Hi there, I am Bharadwaj👋
+## Hi there, I'm Bharadwaj👋
 
 - 🔭 I’m currently working as a Software Engineer at Salesforce
 - 🧠 Actively researching Telugu Language Models to improve NLP for low resource Indian languages. Still ongoing!
