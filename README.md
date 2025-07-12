@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at Salesforce
 - 🧠 Actively researching Telugu Language Models to improve NLP for low resource Indian languages. Still ongoing!
-- 🤖 Passionate about AI, Cloud, and Scalable Systems
+- 🤖 Passionate about AI, Cloud, and Scalable Systems, Currently learning MERN Stack
 - 📬 How to reach me: bharadwaj9632@gmail.com
 
 ### ⚙️ Tools & Technologies
